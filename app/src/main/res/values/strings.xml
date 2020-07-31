@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quize</string>
+    <string name="button">True</string>
+    <string name="button1">False</string>
+    <string name="textview">Herbivores eat meat ?</string>
+    <string name="q2">Electrons are larger than molecules ?</string>
+    <string name="q3">The Atlantic Ocean is the biggest ocean on Earth ?</string>
+    <string name="q4">Sharks are mammals ?</string>
+    <string name="q5">Venus is the closest planet to the Sun ?</string>
+    <string name="q6">Conductors have low resistance ?</string>
+    <string name="q7">The human skeleton is made up of less than 100 bones ?</string>
+    <string name="q8">Molecules are chemically bonded ?</string>
+    <string name="q9">The study of plants is known as botany ?</string>
+    <string name="q10"> Atomic bombs work by atomic fission ?</string>
+    <string name="score">Q:1/10</string>
+    <string name="scoreview">score:0/10</string>
+</resources>
